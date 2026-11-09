@@ -1,0 +1,6 @@
+{
+  "appId": "com.anas.citydrive",
+  "appName": "City Drive",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
